@@ -2,7 +2,8 @@
 Gradio Python Language Bot using AI and ElevenLabs
 
 ## Actions
-1. Create `.emv` file and ensure that the following lines are added:
+1. ensure that the command `pip3 install -r requirements.txt` command is executed
+2. Create `.emv` file and ensure that the following lines are added:
 
 ```console
 OPENAI_API_KEY=sk-<YOUR KEY HERE>
